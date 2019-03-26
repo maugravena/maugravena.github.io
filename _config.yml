@@ -26,6 +26,10 @@ author:
   email: "maugravena@gmail.com"
   url: ""
 
+#Disqus comments
+disqus:
+  shortname: maugravena
+
 # Build settings
 markdown: kramdown
 permalink: /:title
